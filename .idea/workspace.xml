@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d78c91dc-32fb-4325-92ed-34ab8b1d8b75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <workItem from="1588574238029" duration="58000" />
       <workItem from="1588574311173" duration="3100000" />
       <workItem from="1589106013654" duration="243000" />
-      <workItem from="1589204030778" duration="695000" />
+      <workItem from="1589204030778" duration="1146000" />
     </task>
     <servers />
   </component>

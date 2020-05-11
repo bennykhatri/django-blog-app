@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d78c91dc-32fb-4325-92ed-34ab8b1d8b75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,7 +87,7 @@
       <workItem from="1588574238029" duration="58000" />
       <workItem from="1588574311173" duration="3100000" />
       <workItem from="1589106013654" duration="243000" />
-      <workItem from="1589204030778" duration="1146000" />
+      <workItem from="1589204030778" duration="2690000" />
     </task>
     <servers />
   </component>
@@ -136,10 +135,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588749445311" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1586685644764">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1589207143745">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586685644764" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589207143745" />
     <state x="301" y="23" width="837" height="825" key="find.popup" timestamp="1586632532022">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -25,7 +25,7 @@ SECRET_KEY = '8whp0aeqr#-l+2wx$9f#zx)3_zd6-a!a(!_b=ft@o_vuy48w0o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://bennypythonwebapp.herokuapp.com"]
+ALLOWED_HOSTS = ["bennypythonwebapp.herokuapp.com"]
 
 
 # Application definition

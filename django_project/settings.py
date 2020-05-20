@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
-
+import django_heroku
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -25,7 +25,7 @@ SECRET_KEY = '8whp0aeqr#-l+2wx$9f#zx)3_zd6-a!a(!_b=ft@o_vuy48w0o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["bennypythonwebapp.herokuapp.com"]
+ALLOWED_HOSTS = ["clbennypythonwebapp.herokuapp.com"]
 
 
 # Application definition
@@ -136,3 +136,5 @@ EMAIL_POST = 587
 EMAIL_USE_TLS = True
 # EMAIL_HOST_USER = os.environ.get('USER_EMAIL')
 # EMAIL_HOST_PASSWORD = os.environ.get('USER_PASS')
+
+django_heroku.settings(locals())

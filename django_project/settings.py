@@ -25,7 +25,7 @@ SECRET_KEY = '8whp0aeqr#-l+2wx$9f#zx)3_zd6-a!a(!_b=ft@o_vuy48w0o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["clbennypythonwebapp.herokuapp.com"]
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -136,5 +136,15 @@ EMAIL_POST = 587
 EMAIL_USE_TLS = True
 # EMAIL_HOST_USER = os.environ.get('USER_EMAIL')
 # EMAIL_HOST_PASSWORD = os.environ.get('USER_PASS')
+
+AWS_ACCESS_KEY_ID = 'AKIASIJPHXPMQCTPOSXB'
+AWS_SECRET_ACCESS_KEY = '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'
+AWS_STORAGE_BUCKET_NAME = 'django-blogsite-files'
+AWS_S3_REGION_NAME = "us-east-2"
+
+AWS_S3_FILE_OVERWRITE = False
+AWS_DEFAULT_ACL = None
+
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
 django_heroku.settings(locals())

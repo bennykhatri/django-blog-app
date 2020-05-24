@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d78c91dc-32fb-4325-92ed-34ab8b1d8b75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +29,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aOFoF4ObYFXzTXPvMCIXadt5lq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -94,12 +100,19 @@
       <workItem from="1589443239754" duration="212000" />
       <workItem from="1589622412000" duration="2000" />
       <workItem from="1589622449164" duration="3953000" />
-      <workItem from="1589745818763" duration="1746000" />
+      <workItem from="1589745818763" duration="3223000" />
+      <workItem from="1590227781902" duration="10000" />
+      <workItem from="1590230779561" duration="1058000" />
+      <workItem from="1590234362100" duration="2817000" />
+      <workItem from="1590301222447" duration="2928000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589747680293">
@@ -110,28 +123,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="444" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1589223472372" />
-    <state width="1398" height="302" key="GridCell.Tab.0.bottom" timestamp="1589711894041">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom" timestamp="1590319505336">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589706641272" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590319505336" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1587583241413" />
     <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1589711894041" />
-    <state width="1398" height="302" key="GridCell.Tab.0.center" timestamp="1589711894041">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center" timestamp="1590319505336">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589706641271" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590319505336" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1587583241412" />
     <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1589711894041" />
-    <state width="1398" height="302" key="GridCell.Tab.0.left" timestamp="1589711894040">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left" timestamp="1590319505335">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589706641270" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590319505335" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1587583241412" />
     <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1589711894040" />
-    <state width="1398" height="302" key="GridCell.Tab.0.right" timestamp="1589711894041">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right" timestamp="1590319505336">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589706641272" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590319505336" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1587583241413" />
     <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1589711894041" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1588749445311">
@@ -158,9 +171,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="301" y="23" width="837" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1586632532022" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587568122788">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1590314848014">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587568122788" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590314848014" />
   </component>
 </project>
